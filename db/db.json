@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Griso",
+      "price": 60,
+      "img": "./img/cat-1.jfif"
+    },
+    {
+      "id": "a000",
+      "name": "Naranja",
+      "price": "100",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Persian_in_Cat_Cafe.jpg/320px-Persian_in_Cat_Cafe.jpg"
+    }
+  ]
+}

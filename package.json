@@ -1,0 +1,14 @@
+{
+  "name": "challenge-alurageek",
+  "version": "1.0.0",
+  "description": "proyecto de challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blacio Reyes Carla Isabel",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
